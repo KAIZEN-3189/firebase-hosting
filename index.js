@@ -1,0 +1,1 @@
+document.getElementsByTagName("h1")[0].style.padding = '10px';
